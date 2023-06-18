@@ -1,11 +1,11 @@
-About r-orgmassspecr
-====================
+About r-orgmassspecr-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-orgmassspecr-feedstock/blob/main/LICENSE.txt)
 
 Home: http://OrgMassSpec.github.io/
 
 Package license: BSD_2_clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-orgmassspecr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Organic/biological mass spectrometry data analysis.
 
