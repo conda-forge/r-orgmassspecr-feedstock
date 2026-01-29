@@ -1,4 +1,4 @@
-{% set version = '0.5-3' %}
+{% set version = "0.5-4" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/OrgMassSpecR_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/OrgMassSpecR/OrgMassSpecR_{{ version }}.tar.gz
-  sha256: 88f9dd92969a0e9cb5c5bc0abd67143f8f1dbb75f01bc13cf4d8b5b0326aa9b7
+  sha256: 66cfd0aff43a0d40048600a4efbb4d214ee684c352f2416a3c8a8c705b9c1b6c
 
 build:
-  number: 6
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
